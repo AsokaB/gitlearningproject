@@ -50,7 +50,7 @@ def get_filters():
             day = day_input.lower()
 
         else:
-            print("Please input the correct name of the day")
+            print("Please input the correct name of the day, love")
 
     print('-'*40)
     return city, month, day
